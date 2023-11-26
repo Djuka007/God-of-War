@@ -159,3 +159,9 @@ h1{
     transform: scale(4);
   }
 }
+#fb-root{
+  font-size: 20px;
+  width: 15%;
+  display: block;
+  margin: auto;
+}
