@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+sitemap:https://github.com/Djuka007/God-of-War/blob/main/sitemap.xml
